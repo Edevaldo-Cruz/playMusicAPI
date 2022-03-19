@@ -8,7 +8,7 @@
         "source": "DIO",
         "uri":
           "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
-        "imageSource": "./assests/image/imgDio.png"
+        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/imgDio.png?raw=true"
       },
       {
         "id": "2",
