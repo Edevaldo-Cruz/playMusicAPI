@@ -8,7 +8,7 @@
         "source": "DIO",
         "uri":
           "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
-        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/imgDio.png?raw=true"
+        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/friday.png?raw=true"
       },
       {
         "id": "2",
@@ -18,7 +18,7 @@
         "source": "DIO",
         "uri":
           "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
-        "imageSource": "https://i.ibb.co/FYjqrST/cover.png"
+        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/master.png?raw=true"
       },{
         "id": "3",
         "title": "Carreira de sucesso",
@@ -27,7 +27,7 @@
         "source": "DIO",
         "uri":
           "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
-        "imageSource": "https://i.ibb.co/FYjqrST/cover.png"
+        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/stress.png?raw=true"
       },
       {
         "id": "4",
@@ -37,7 +37,7 @@
         "source": "DIO",
         "uri":
           "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
-        "imageSource": "https://i.ibb.co/FYjqrST/cover.png"
+        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/indice.png?raw=true"
       },{
         "id": "5",
         "title": "Carreira de sucesso",
@@ -46,7 +46,7 @@
         "source": "Librivox",
         "uri":
           "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
-        "imageSource": "https://i.ibb.co/FYjqrST/cover.png"
+        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/mint.png?raw=true"
       },
       {
         "id": "6",
@@ -56,7 +56,7 @@
         "source": "DIO",
         "uri":
           "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
-        "imageSource": "https://i.ibb.co/FYjqrST/cover.png"
+        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/deluxe.png?raw=true"
       }
     ]
 }
