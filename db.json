@@ -1,62 +1,94 @@
 {
-    "playlist" : [
-        {
-        "id": "1",
-        "title": "Carreira de sucesso",
-        "date": "01/10/2021",
-        "author": "DIO",
-        "source": "DIO",
-        "uri":
-          "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
-        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/friday.png?raw=true"
-      },
-      {
-        "id": "2",
-        "title": "Qual a importancia da comunidade na vida de um dev",
-        "date": "01/10/2021",
-        "author": "DIO",
-        "source": "DIO",
-        "uri":
-          "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
-        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/master.png?raw=true"
-      },{
-        "id": "3",
-        "title": "Carreira de sucesso",
-        "date": "01/10/2021",
-        "author": "DIO",
-        "source": "DIO",
-        "uri":
-          "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
-        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/stress.png?raw=true"
-      },
-      {
-        "id": "4",
-        "title": "Qual a importancia da comunidade na vida de um dev",
-        "date": "01/10/2021",
-        "author": "DIO",
-        "source": "DIO",
-        "uri":
-          "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
-        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/indice.png?raw=true"
-      },{
-        "id": "5",
-        "title": "Carreira de sucesso",
-        "date": "01/10/2021",
-        "author": "William Shakespeare",
-        "source": "Librivox",
-        "uri":
-          "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
-        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/mint.png?raw=true"
-      },
-      {
-        "id": "6",
-        "title": "Qual a importancia da comunidade na vida de um dev",
-        "date": "01/10/2021",
-        "author": "DIO",
-        "source": "DIO",
-        "uri":
-          "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
-        "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/deluxe.png?raw=true"
+  "playlist" : [
+    {
+      "id": "1",
+      "title": "Carreira de sucesso",
+      "date": "01/10/2021",
+      "author": "DIO",
+      "source": "DIO",
+      "uri":
+        "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
+      "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/friday.png?raw=true"
+    },
+    {
+      "id": "2",
+      "title": "Qual a importancia da comunidade na vida de um dev",
+      "date": "01/10/2021",
+      "author": "DIO",
+      "source": "DIO",
+      "uri":
+        "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
+      "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/master.png?raw=true"
+    },{
+      "id": "3",
+      "title": "Carreira de sucesso",
+      "date": "01/10/2021",
+      "author": "DIO",
+      "source": "DIO",
+      "uri":
+        "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
+      "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/stress.png?raw=true"
+    },
+    {
+    " id": "4",
+      "title": "Qual a importancia da comunidade na vida de um dev",
+      "date": "01/10/2021",
+      "author": "DIO",
+      "source": "DIO",
+      "uri":
+        "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
+      "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/indie.png?raw=true"
+    },
+    {
+     "id": "5",
+      "title": "Carreira de sucesso",
+      "date": "01/10/2021",
+      "author": "William Shakespeare",
+      "source": "Librivox",
+      "uri":
+        "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
+      "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/mint.png?raw=true"
+    },
+    {
+      "id": "6",
+      "title": "Qual a importancia da comunidade na vida de um dev",
+      "date": "01/10/2021",
+      "author": "DIO",
+      "source": "DIO",
+      "uri":
+        "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
+      "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/deluxe.png?raw=true"
       }
-    ]
+  ],
+
+  "items":  [
+    {
+      "artist": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/cassical.png?raw=true",
+      "text": "Cassical"
+    },
+    {
+      "artist": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/cassical.png?raw=true",
+      "text": "Cassical"
+    },
+    {
+      "artist": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/cassical.png?raw=true",
+      "text": "Cassical"
+    },
+    {
+      "artist": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/cassical.png?raw=true",
+      "text": "Cassical"
+    },
+    {
+      "artist": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/cassical.png?raw=true",
+      "text": "Cassical"
+    },
+    {
+      "artist": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/cassical.png?raw=true",
+      "text": "Cassical"
+    },
+    {
+      "artist": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/cassical.png?raw=true",
+      "text": "Cassical"
+    }       
+  ]    
 }
