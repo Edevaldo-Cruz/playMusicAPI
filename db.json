@@ -4,18 +4,18 @@
       "id": "1",
       "title": "Carreira de sucesso",
       "date": "01/10/2021",
-      "author": "DIO",
-      "source": "DIO",
+      "author": "Mozart",
+      "source": "Mozart",
       "uri":
-        "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
-      "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/friday.png?raw=true"
+        "https://www.netmundi.org/home/wp-content/uploads/2017/05/3-Mozart-String-Serenade-No13-Eine-Kleine-Nachtmusik-in-G-Major-KV525-1st-Movement.mp3",
+      "imageSource": "https://www.netmundi.org/home/wp-content/uploads/2017/05/mozart-620x264.jpg"
     },
     {
       "id": "2",
       "title": "Qual a importancia da comunidade na vida de um dev",
       "date": "01/10/2021",
-      "author": "DIO",
-      "source": "DIO",
+      "author": "Teste",
+      "source": "Teste",
       "uri":
         "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
       "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/master.png?raw=true"
@@ -23,8 +23,8 @@
       "id": "3",
       "title": "Carreira de sucesso",
       "date": "01/10/2021",
-      "author": "DIO",
-      "source": "DIO",
+      "author": "Teste",
+      "source": "Teste",
       "uri":
         "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
       "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/stress.png?raw=true"
@@ -33,8 +33,8 @@
     " id": "4",
       "title": "Qual a importancia da comunidade na vida de um dev",
       "date": "01/10/2021",
-      "author": "DIO",
-      "source": "DIO",
+      "author": "Teste",
+      "source": "Teste",
       "uri":
         "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
       "imageSource": "https://github.com/Edevaldo-Cruz/playMusicAPI/blob/master/assests/image/indie.png?raw=true"
