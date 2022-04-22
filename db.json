@@ -19,9 +19,10 @@
       "uri":
         "https://www.netmundi.org/home/wp-content/uploads/2018/05/01-Toccata-And-Fugue-In-D-Minor-BWV-565-Johann-Sebastian-Bach.mp3",
       "imageSource": "https://cdn.ome.lt/hpu7WtOwhZo7f95GUo6Xl5Hj6tE=/1200x630/smart/extras/conteudos/disney-greve-dont-say-gay2.jpg"
-    },{
+    },
+    {
       "id": "3",
-      "title": "The Four Seasons – Autumn – Allegro",
+      "title": "The Four Seasons",
       "date": "01/10/2021",
       "author": "Antonio Vivaldi",
       "source": "Antonio Vivaldi",
@@ -30,7 +31,7 @@
       "imageSource": "https://www.netmundi.org/home/wp-content/uploads/2018/01/antonio-vivaldi-620x264.jpg"
     },
     {
-    " id": "4",
+      "id": "4",
       "title": "Nocturne in E flat major Op. 9",
       "date": "01/10/2021",
       "author": "Frédéric Chopin",
