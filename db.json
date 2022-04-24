@@ -8,7 +8,8 @@
       "source": "Mozart",
       "uri":
         "https://www.netmundi.org/home/wp-content/uploads/2017/05/3-Mozart-String-Serenade-No13-Eine-Kleine-Nachtmusik-in-G-Major-KV525-1st-Movement.mp3",
-      "imageSource": "https://www.netmundi.org/home/wp-content/uploads/2017/05/mozart-620x264.jpg"
+      "imageSource": "https://www.netmundi.org/home/wp-content/uploads/2017/05/mozart-620x264.jpg",
+      "color": "#ACC3F2"
     },
     {
       "id": "2",
@@ -18,7 +19,8 @@
       "source": "Disney",
       "uri":
         "https://www.netmundi.org/home/wp-content/uploads/2018/05/01-Toccata-And-Fugue-In-D-Minor-BWV-565-Johann-Sebastian-Bach.mp3",
-      "imageSource": "https://cdn.ome.lt/hpu7WtOwhZo7f95GUo6Xl5Hj6tE=/1200x630/smart/extras/conteudos/disney-greve-dont-say-gay2.jpg"
+      "imageSource": "https://cdn.ome.lt/hpu7WtOwhZo7f95GUo6Xl5Hj6tE=/1200x630/smart/extras/conteudos/disney-greve-dont-say-gay2.jpg", 
+      "color": "#735A3D"
     },
     {
       "id": "3",
@@ -28,7 +30,8 @@
       "source": "Antonio Vivaldi",
       "uri":
         "https://www.netmundi.org/home/wp-content/uploads/2018/01/The-Four-Seasons-Autumn-Allegro.mp3",
-      "imageSource": "https://www.netmundi.org/home/wp-content/uploads/2018/01/antonio-vivaldi-620x264.jpg"
+      "imageSource": "https://www.netmundi.org/home/wp-content/uploads/2018/01/antonio-vivaldi-620x264.jpg",
+      "color": "#A68160"
     },
     {
       "id": "4",
@@ -38,7 +41,8 @@
       "source": "Frédéric Chopin",
       "uri":
         "https://www.netmundi.org/home/wp-content/uploads/2017/08/1-Nocturne-in-E-flat-major-Op.-9-No.-2.mp3",
-      "imageSource": "https://www.netmundi.org/home/wp-content/uploads/2017/08/Chopin-620x264.jpg"
+      "imageSource": "https://www.netmundi.org/home/wp-content/uploads/2017/08/Chopin-620x264.jpg",
+      "color": "#D9BBA0"
     },
     {
      "id": "5",
@@ -48,7 +52,8 @@
       "source": "Disney",
       "uri":
         "https://www.netmundi.org/home/wp-content/uploads/2018/05/06-The-Nutcracker-Suite-Opera-71A-Russian-Dance-Pyotr-Ilyich-Tchaikovsky.mp3",
-      "imageSource": "https://cdn.ome.lt/hpu7WtOwhZo7f95GUo6Xl5Hj6tE=/1200x630/smart/extras/conteudos/disney-greve-dont-say-gay2.jpg"
+      "imageSource": "https://cdn.ome.lt/hpu7WtOwhZo7f95GUo6Xl5Hj6tE=/1200x630/smart/extras/conteudos/disney-greve-dont-say-gay2.jpg",
+      "color":"#BF7E6F"
     },
     {
       "id": "6",
@@ -58,7 +63,8 @@
       "source": "Ludwig van Beethoven",
       "uri":
         "https://www.netmundi.org/home/wp-content/uploads/2017/08/beethoven_fur_elise-para-elise.mp3",
-      "imageSource": "https://www.netmundi.org/home/wp-content/uploads/2017/08/beethoven-1024x768.jpg"
+      "imageSource": "https://www.netmundi.org/home/wp-content/uploads/2017/08/beethoven-1024x768.jpg",
+      "color":"#A64138"
       }
   ],
 
